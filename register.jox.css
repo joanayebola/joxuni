@@ -1,0 +1,126 @@
+body {
+    width: 100%;
+   
+}
+
+.jox_logo {
+    display: flex;
+    justify-content: center;
+
+}
+
+.portal {
+    width: 35%;
+    height: 650px;
+    background-color: #EBEBEB;
+    margin-left: 70px;
+    margin-top: 30px;
+   
+}
+
+h1 {
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+.jambreg {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 39px;
+    border: 1px solid black;
+    position: static;
+}
+
+.settings_icon {
+    width: 40px;
+    border: 1px solid black;
+    position: absolute;
+    top: 293px;
+   
+}
+
+
+
+.fullname {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 38px;
+    border: 1px solid black;
+    position: static;
+}
+
+.potrait {
+    width: 40px;
+    border: 1px solid black;
+    position: absolute;
+    top: 385px;
+}
+
+.email {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 39px;
+    border: 1px solid black;
+}
+
+.email_icon {
+    width: 40px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 60px;
+}
+
+.password {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 39px;
+    border: 1px solid black;
+}
+
+.pass_icon {
+    width: 40px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: -33px;
+}
+
+.register {
+    
+    margin-top: 30px;
+    width: 350px;
+    height: 39px;
+    background-color: blueviolet;
+     
+}
+.register a {
+    text-decoration: none;
+    color: white;
+}
+
+.forgot {
+    margin-top: 20px;
+}
+
+.forgot a {
+    text-decoration: none;
+}
+
+.login {
+    margin-top: 20px;
+}
+
+.login a {
+    text-decoration: none;
+}
+
+.students {
+    width: 35%;
+    height: 650px;
+    position: absolute;
+    right: 100px;
+    top: 170px;
+}

@@ -1,0 +1,50 @@
+body {
+    width: 100%;
+}
+.jox_logo {
+    display: flex;
+    justify-content: center;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: brown;
+}
+
+.card {
+    width: 60%;
+    height: 700px;
+    background-color: darkmagenta;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.eligibility {
+    color: red;
+}
+
+.guidelines {
+    color: #328CD9;
+    font-weight: bold;
+}
+
+.enquiries {
+    font-weight: bolder;
+}
+
+p{
+    color: white;
+}
+.apply_grad {
+    width: 600px;
+    line-height: 2;
+}
+
+a :hover
+ {
+cursor: pointer;
+}
